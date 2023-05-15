@@ -45,14 +45,9 @@ This command will launch the game in your default browser. The game board will b
 
 You can customize various aspects of the game by modifying the source code. The main files to look into are:
 
-`<ul>`
-`<li>`
-src/components/Board.js: This file contains the logic for rendering the game board and handling player moves.
-`</li>`
-`<li>`
-src/components/Game.js: This file manages the game state and determines the winner.
-`</li>`
-`</ul>`
+- src/components/Board.js: This file contains the logic for rendering the game board and handling player moves.
+- src/components/Game.js: This file manages the game state and determines the winner.
+
 Feel free to explore these files and make changes according to your requirements.
 
 ## Contributing
@@ -72,14 +67,8 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 
-`<ul>`
-`<li>`
-This project was inspired by the official React tutorial on building a Tic-Tac-Toe game.
-`</li>`
-`<li>`
-Special thanks to the React community for their valuable resources and contributions.
-`</li>`
-`</ul>`
+- This project was inspired by the official React tutorial on building a Tic-Tac-Toe game.
+- Special thanks to the React community for their valuable resources and contributions.
 
 ## Contact
 
